@@ -1,0 +1,3590 @@
+[
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback)",
+        "Price": "$57.26",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Paperback)",
+        "Price": "$74.28",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Emma Yan Paperback Book",
+        "Price": "$24.47",
+        "Shipping Fee": "+$4.20 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models - Strategies For ChatGBT & Other LLMS",
+        "Price": "$36.99",
+        "Shipping Fee": "+$31.36 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback)",
+        "Price": "$17.99",
+        "Shipping Fee": "+$28.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Anand Vemula Paperback Book",
+        "Price": "$22.47",
+        "Shipping Fee": "+$3.66 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback)",
+        "Price": "$14.68",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Anand Vemula Paperback Book",
+        "Price": "$20.19",
+        "Shipping Fee": "+$3.52 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback)",
+        "Price": "$13.57",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models (Taschenbuch) (US IMPORT)",
+        "Price": "$70.26",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Designing Large Language Model Systems: System Design, Architecture, Deployment,",
+        "Price": "$16.16",
+        "Shipping Fee": "+$11.69 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": " Quick Start Guide to Large Language Models by Sinan Ozdemir 9780138199197 Paper",
+        "Price": "$48.82",
+        "Shipping Fee": "+$53.27 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback)",
+        "Price": "$41.17",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shreyas Subramanian Large Language Model-Based Solutions (Paperback) (UK IMPORT)",
+        "Price": "$62.26",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback)",
+        "Price": "$63.27",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Paperback)",
+        "Price": "$36.18",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback)",
+        "Price": "$16.59",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Anand Vemula Paperback Book",
+        "Price": "$21.62",
+        "Shipping Fee": "+$3.43 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Hands-On Large Language Models: Language Understanding and Generation",
+        "Price": "$61.10",
+        "Shipping Fee": "+$29.34 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$16.53",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models Unveiled: Development and Deployment Strategies by Rupesh ",
+        "Price": "$79.59",
+        "Shipping Fee": "+$3.59 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback)",
+        "Price": "$46.26",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Anand Vemul",
+        "Price": "$31.93",
+        "Shipping Fee": "+$3.26 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "New Listing",
+        "Price": "$208.28",
+        "Shipping Fee": "+$20.28 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: A Deep Dive: Bridging Theory and Practice by Uday Kamath ",
+        "Price": "$99.34",
+        "Shipping Fee": "+$46.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security: Building Secure AI..",
+        "Price": "$61.10",
+        "Shipping Fee": "+$29.34 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Designing Large Language Model Systems: System Design, Architecture, Deployment,",
+        "Price": "$20.85",
+        "Shipping Fee": "+$3.65 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$19.44",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback)",
+        "Price": "$39.11",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "New Listing",
+        "Price": "$40.98",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootendorst Hands-On Large Language Models (Paperback)",
+        "Price": "$75.01",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models i (Paperback) (UK IMPORT)",
+        "Price": "$75.58",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Introduction to large -scale language models II -Evaluat Japanese Edition",
+        "Price": "$73.81",
+        "Shipping Fee": "+$9.99 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Anand Vemula P",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.49 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Super Detailing 1/48 F-14 Tomcat Art Book Large Book Plastic Models From Japan",
+        "Price": "$58.14",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$16.67",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback)",
+        "Price": "$18.25",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Infinitary Languages Model Theory Volume 83 Studies in Logic and the Found",
+        "Price": "$157.43",
+        "Shipping Fee": "+$46.69 shipping",
+        "Location": "from Germany"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Secur (Paperback)",
+        "Price": "$78.23",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Secur (Paperback)",
+        "Price": "$71.41",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Anand Vemula Paperback Book",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.57 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$15.57",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sanket Subhash Khandar Mastering Large Language Model (Taschenbuch) (US IMPORT)",
+        "Price": "$59.47",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: A Step-by-Step Do It Yourself Guide by Anand Vemula Paper",
+        "Price": "$19.54",
+        "Shipping Fee": "+$3.38 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "SysML Distilled: A Brief Guide to the Systems Modeling Language by Delligatti, L",
+        "Price": "$30.84",
+        "Shipping Fee": "+$23.10 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective G",
+        "Price": "$42.72",
+        "Shipping Fee": "+$18.99 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the AI Apocalyp (Paperback)",
+        "Price": "$18.31",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models i (Paperback) (UK IMPORT)",
+        "Price": "$72.05",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Taschenbuch) (US IMPORT)",
+        "Price": "$15.36",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the (Paperback) (US IMPORT)",
+        "Price": "$19.51",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text Ge",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.74 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and NL",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.49 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Last Words: Large Language Models and the AI Apocalypse by Paul Kockelman Paperb",
+        "Price": "$16.79",
+        "Shipping Fee": "+$15.39 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Taschenbuch) (US IMPORT)",
+        "Price": "$42.80",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shreyas Subramanian Large Language Model-Based Solutions (Paperback) (UK IMPORT)",
+        "Price": "$59.73",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and NL",
+        "Price": "$16.16",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$46.07",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Anand Vemul",
+        "Price": "$37.27",
+        "Shipping Fee": "+$3.59 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Paperback)",
+        "Price": "$67.68",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Hardback)",
+        "Price": "$48.68",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Hardback) (UK IMPORT)",
+        "Price": "$63.88",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$49.11",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Hardback)",
+        "Price": "$48.68",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the AI Apocalyp (Paperback)",
+        "Price": "$14.75",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and NL",
+        "Price": "$16.16",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Last Words: Large Language Models and the AI Apocalypse by Paul Kockelman Paperb",
+        "Price": "$16.79",
+        "Shipping Fee": "+$15.39 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busin (Hardback) (US IMPORT)",
+        "Price": "$56.50",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Hands-On Large Language Models: Language Understanding and Generation by Alammar",
+        "Price": "$67.33",
+        "Shipping Fee": "+$24.29 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: A Deep Dive: Bridging Theory and Practice by Uday Kamath",
+        "Price": "$119.28",
+        "Shipping Fee": "+$25.98 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$46.07",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shreyas Subramanian Large Language Model-Based Solutions (Paperback) Tech Today",
+        "Price": "$60.39",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the (Paperback) (US IMPORT)",
+        "Price": "$19.51",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Paperback)",
+        "Price": "$67.68",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Paperback) (PRESALE 17/10/2024)",
+        "Price": "$88.85",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the (Paperback) (UK IMPORT)",
+        "Price": "$18.48",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busi (Paperback) (UK IMPORT)",
+        "Price": "$38.83",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta Hardc",
+        "Price": "$599.47",
+        "Shipping Fee": "+$35.30 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text Ge",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.74 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Taschenbuch)",
+        "Price": "$61.04",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and t (Taschenbuch) (US IMPORT)",
+        "Price": "$15.43",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": " Large Language Models by John Atkinson-Abutridy 9781032836089 NEW ",
+        "Price": "$63.44",
+        "Shipping Fee": "+$53.78 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Hands-On Large Language Models: Language Understanding and Generation by Jay Ala",
+        "Price": "$66.33",
+        "Shipping Fee": "+$26.17 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$47.56",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback)",
+        "Price": "$44.08",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Anand Vemula Paperback Book",
+        "Price": "$36.60",
+        "Shipping Fee": "+$3.41 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Bu (Taschenbuch) (US IMPORT)",
+        "Price": "$37.63",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Paperback)",
+        "Price": "$39.20",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Taschenbuch)",
+        "Price": "$13.57",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busi (Paperback) (UK IMPORT)",
+        "Price": "$39.67",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busin (Hardback) (UK IMPORT)",
+        "Price": "$51.13",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Hardback)",
+        "Price": "$54.19",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Hardback) (UK IMPORT)",
+        "Price": "$66.74",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "GODZILLA Graphic Collection Modeling of Godzilla 2017 Hobby JAPAN",
+        "Price": "$55.65",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical Co",
+        "Price": "$26.06",
+        "Shipping Fee": "+$3.56 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Anand Vemula Paperb",
+        "Price": "$33.23",
+        "Shipping Fee": "+$2.39 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the (Paperback) (US IMPORT)",
+        "Price": "$16.74",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$42.00",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$92.23",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Uday Kamath Garrett Somers Sarah Sorenson Ke Large Language Models: A (Hardback)",
+        "Price": "$141.53",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Uday Kamath Garrett Somers Sarah Sorenson Ke Large Language Models: A (Hardback)",
+        "Price": "$131.26",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quantization Methods for Large Language Models From Theory to Real-World Impleme",
+        "Price": "$28.11",
+        "Shipping Fee": "+$12.57 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Conversations Not Code: Understanding A.I. And Large Language Models by Thomas W",
+        "Price": "$35.58",
+        "Shipping Fee": "+$3.76 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta Hardc",
+        "Price": "$612.35",
+        "Shipping Fee": "+$43.79 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Taschenbuch)",
+        "Price": "$67.59",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models Projects: Apply and Implement Strategies for Large Languag",
+        "Price": "$60.06",
+        "Shipping Fee": "+$35.30 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models Unveiled: Development and Deployment Strategies by Rupesh ",
+        "Price": "$71.04",
+        "Shipping Fee": "+$3.38 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busi (Paperback) (US IMPORT)",
+        "Price": "$42.87",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Paperback) (UK IMPORT)",
+        "Price": "$104.49",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$85.91",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models Essentials: Techniques, Tools, and Applications by Vemu...",
+        "Price": "$20.18",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by Ana",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.49 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open",
+        "Price": "$65.42",
+        "Shipping Fee": "+$50.59 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Us",
+        "Price": "$56.44",
+        "Shipping Fee": "+$54.46 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models  (Gebundene Ausgabe) (US IMPORT)",
+        "Price": "$50.57",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$65.33",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busin (Hardback) (UK IMPORT)",
+        "Price": "$49.43",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Taschenbuch) (US IMPORT)",
+        "Price": "$40.67",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Taschenbuch) (US IMPORT)",
+        "Price": "$84.53",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$49.34",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Paperback) (UK IMPORT)",
+        "Price": "$110.63",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$66.45",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Paperback)",
+        "Price": "$93.85",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback)",
+        "Price": "$62.20",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback)",
+        "Price": "$66.07",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the AI Apocal (Taschenbuch)",
+        "Price": "$15.48",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Anand Vemu",
+        "Price": "$24.93",
+        "Shipping Fee": "+$3.39 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models Essentials: Techniques, Tools, and Applications by Anand V",
+        "Price": "$22.62",
+        "Shipping Fee": "+$3.70 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Anand Vemula P",
+        "Price": "$21.54",
+        "Shipping Fee": "+$3.41 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text Ge",
+        "Price": "$16.16",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Designing Large Language Model Systems: System Design, Architecture, Deployment,",
+        "Price": "$20.85",
+        "Shipping Fee": "+$3.65 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Anand Vemul",
+        "Price": "$37.27",
+        "Shipping Fee": "+$3.59 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models: Concepts, Techniques and Applications by John Atkinson-Ab",
+        "Price": "$78.70",
+        "Shipping Fee": "+$19.67 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$72.98",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback)",
+        "Price": "$42.08",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Paperback)",
+        "Price": "$48.05",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Paperback) (PRESALE 10/17/2024)",
+        "Price": "$81.45",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Anand Vemula ",
+        "Price": "$16.16",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Paperback)",
+        "Price": "$64.24",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta Paper",
+        "Price": "$463.47",
+        "Shipping Fee": "+$27.66 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Model–Based Solutions: How to Deliv er Value with Cost–Effective…",
+        "Price": "$44.05",
+        "Shipping Fee": "+$67.62 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Emma Yan Paperback Book",
+        "Price": "$16.60",
+        "Shipping Fee": "+$14.37 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Beginning Prompt Engineering: Learning to communicate with Large Language Models",
+        "Price": "$24.08",
+        "Shipping Fee": "+$4.10 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$48.32",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models i (Paperback) (US IMPORT)",
+        "Price": "$77.21",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Gebundene Ausgabe)",
+        "Price": "$59.63",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with P (Digital download) (UK IMPORT)",
+        "Price": "$69.35",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "New Listing",
+        "Price": "$68.50",
+        "Shipping Fee": "+$2.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$45.30",
+        "Shipping Fee": "+$16.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective G",
+        "Price": "$42.77",
+        "Shipping Fee": "+$20.31 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Hardback)",
+        "Price": "$43.61",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with P (Digital download) (UK IMPORT)",
+        "Price": "$72.65",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Hardback)",
+        "Price": "$49.95",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open AI: Conversational programming",
+        "Price": "$79.25",
+        "Shipping Fee": "+$93.21 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical Co",
+        "Price": "$29.33",
+        "Shipping Fee": "+$3.63 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Amaratunga - Understanding Large Language Models   Learning Their Und - S9000z",
+        "Price": "$63.00",
+        "Shipping Fee": "+$24.15 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models - LLMs by Arora, Jagdish Krishanlal, Like New Used, Fre...",
+        "Price": "$41.35",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Designing Large Language Model Systems: System Design, Architecture, Deployme...",
+        "Price": "$20.83",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: Concepts, Techniques and Applications by John Atkinson-Ab",
+        "Price": "$73.94",
+        "Shipping Fee": "+$36.98 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Paperback)",
+        "Price": "$58.12",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective,",
+        "Price": "$71.99",
+        "Shipping Fee": "+$31.43 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "N Gauge Layout Plan Collection 50 KATO Unitrack TOMIX Fine Track Book from Japan",
+        "Price": "$60.00",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$47.77",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leade (Taschenbuch)",
+        "Price": "$35.27",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Anand Vemula Paperb",
+        "Price": "$36.43",
+        "Shipping Fee": "+$3.37 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective G",
+        "Price": "$44.06",
+        "Shipping Fee": "+$20.11 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$35.69",
+        "Shipping Fee": "+$14.37 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busin (Hardback) (US IMPORT)",
+        "Price": "$51.92",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs) by",
+        "Price": "$11.26",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$47.27",
+        "Shipping Fee": "+$23.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "A Beginner's Guide to Large Language Models: Conversational AI for Non-Technical",
+        "Price": "$32.65",
+        "Shipping Fee": "+$20.10 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Taschenbuch)",
+        "Price": "$43.96",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security: Building Secure AI A",
+        "Price": "$61.09",
+        "Shipping Fee": "+$16.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Tomcat Art Book Large Book Plastic Models Super Detailing 1/48 F-14 Tomcat",
+        "Price": "$58.76",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Large Language Models: Concepts, Techniques and Applications by John Atkinson-Ab",
+        "Price": "$200.76",
+        "Shipping Fee": "+$24.59 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Paperback)",
+        "Price": "$105.77",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models and the AI Apocalyp (Paperback)",
+        "Price": "$15.36",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model",
+        "Price": "$60.93",
+        "Shipping Fee": "+$50.44 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Paperback)",
+        "Price": "$33.93",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootendorst Hands-On Large Language Models (Paperback)",
+        "Price": "$79.98",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Secur (Paperback)",
+        "Price": "$72.09",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Hardback)",
+        "Price": "$56.79",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective G",
+        "Price": "$44.06",
+        "Shipping Fee": "+$20.11 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective G",
+        "Price": "$42.77",
+        "Shipping Fee": "+$20.31 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective,",
+        "Price": "$71.99",
+        "Shipping Fee": "+$31.43 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: Concepts, Techniques and Applications by John Atkinson-Ab",
+        "Price": "$73.94",
+        "Shipping Fee": "+$36.98 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$35.69",
+        "Shipping Fee": "+$14.37 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with P (Digital download) (US IMPORT)",
+        "Price": "$75.87",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "A Beginner's Guide to Large Language Models: Conversational AI for Non-Technical",
+        "Price": "$40.40",
+        "Shipping Fee": "+$8.33 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open AI: Conversational programming",
+        "Price": "$79.25",
+        "Shipping Fee": "+$93.21 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Busi (Paperback) (US IMPORT)",
+        "Price": "$38.97",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Vemula, Anand, Brand New, ...",
+        "Price": "$20.18",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Taschenbuch)",
+        "Price": "$99.13",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Paperback)",
+        "Price": "$72.89",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models in Trading: Comprehensive Guide to Applications, Case Stud",
+        "Price": "$22.92",
+        "Shipping Fee": "+$3.78 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Paperback)",
+        "Price": "$48.27",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security - 9781098162207",
+        "Price": "$64.40",
+        "Shipping Fee": "+$53.80 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Tapa blanda) (Importación USA)",
+        "Price": "$16.20",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with P (Digital download) (US IMPORT)",
+        "Price": "$70.34",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$47.27",
+        "Shipping Fee": "+$23.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Yan, Emma, Brand New, Free ...",
+        "Price": "$13.75",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs) by",
+        "Price": "$11.26",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Anand Vemula Understanding Large Language Models (Tapa blanda)",
+        "Price": "$13.57",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "New Listing",
+        "Price": "$15.48",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models : Concepts, Techniques and Applications, Paperback by A...",
+        "Price": "$59.93",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python by Raj Arun",
+        "Price": "$91.95",
+        "Shipping Fee": "+$29.08 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Taschenbuch)",
+        "Price": "$43.76",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Conversations Not Code: Understanding A.I. And Large Language Models by Thomas W",
+        "Price": "$31.93",
+        "Shipping Fee": "+$4.11 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security: Building Secure AI A",
+        "Price": "$61.09",
+        "Shipping Fee": "+$16.89 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "USED ​​MA.K. in SF3D MAX WATANABE NO MA.K. DAISUKI MODEL KIT BOOK 1 form JP",
+        "Price": "$113.21",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback)",
+        "Price": "$75.07",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$70.15",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models Projects: Apply and Implement Strategies for Large Languag",
+        "Price": "$70.38",
+        "Shipping Fee": "+$13.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Anand Vemu",
+        "Price": "$22.80",
+        "Shipping Fee": "+$2.49 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model",
+        "Price": "$60.93",
+        "Shipping Fee": "+$50.44 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Model-based Solutions : How to Deliver Value With Cost-effecti...",
+        "Price": "$46.29",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: A Step-by-Step Do It Yourself Guide by Vemula, Anand, ...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Conversations Not Code: Understanding A.I. And Large Language Models by Thomas W",
+        "Price": "$27.71",
+        "Shipping Fee": "+$11.69 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions, Shreyas ) Su",
+        "Price": "$49.59",
+        "Shipping Fee": "+$50.05 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootendorst Hands-On Large Language Models (Paperback)",
+        "Price": "$90.37",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models in Trading: Comprehensive Guide to Applications, Case Stud",
+        "Price": "$20.85",
+        "Shipping Fee": "+$4.18 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$41.75",
+        "Shipping Fee": "+$16.87 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna, Pa",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.40 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by Ana",
+        "Price": "$16.16",
+        "Shipping Fee": "+$8.47 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text Ge",
+        "Price": "$21.76",
+        "Shipping Fee": "+$3.47 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Quantization Methods for Large Language Models From Theory to Real-World Impleme",
+        "Price": "$28.11",
+        "Shipping Fee": "+$12.57 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Tomcat Art Book Large Book Plastic Models Super Detailing 1/48 F-14 Tomcat",
+        "Price": "$58.76",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Understanding Large Language Models by Thimira Amaratunga",
+        "Price": "$48.95",
+        "Shipping Fee": "+$27.68 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Anand Vemula Paperb",
+        "Price": "$34.01",
+        "Shipping Fee": "+$3.51 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Grokking LLM: From Fundamentals to Advanced Techniques in Large Language Models ",
+        "Price": "$37.21",
+        "Shipping Fee": "+$3.57 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models: A Deep Dive: Bridging Theory and Practice by Uday Kamath ",
+        "Price": "$126.68",
+        "Shipping Fee": "+$41.58 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Vemula, Ana...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity: Threats, Exposure and Mitigation by Andr",
+        "Price": "$75.49",
+        "Shipping Fee": "+$110.14 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "Arora - Large Language Models - LLMs - New paperback or softback - N555z",
+        "Price": "$21.43",
+        "Shipping Fee": "+$42.72 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Vemula, Anand, Brand New,...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$71.24",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Developer's Playbook for Large Language Model Security : Building Secure Ai A...",
+        "Price": "$57.75",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Anand Vemula Paperback Book",
+        "Price": "$33.23",
+        "Shipping Fee": "+$2.58 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models Projects: Apply and Implement Strategies for Large Languag",
+        "Price": "$90.73",
+        "Shipping Fee": "+$27.66 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Sec (Taschenbuch)",
+        "Price": "$75.95",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$50.83",
+        "Shipping Fee": "+$9.67 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Uday Kamath Garrett Somers Sarah Sorenson Ke Large Language Models: A (Hardback)",
+        "Price": "$133.17",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity: Threats, Exposure and Mitigation by Andr",
+        "Price": "$65.73",
+        "Shipping Fee": "+$55.30 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$61.78",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: A Step-by-Step Do It Yourself Guide by Anand Vemula Paper",
+        "Price": "$22.23",
+        "Shipping Fee": "+$3.59 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "New Book Super Detailing 1/48 F-14 TOMCAT Model Large Book from Japan",
+        "Price": "$48.86",
+        "Shipping Fee": "+$12.00 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$41.85",
+        "Shipping Fee": "+$23.45 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Mastering Large Language Models: Advanced techniques, applications, cutting-edg,",
+        "Price": "$49.99",
+        "Shipping Fee": "+$33.91 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models in Trading: Comprehensive Guide to Applications, Case S...",
+        "Price": "$20.18",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and...",
+        "Price": "$13.56",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna,...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Last Words : Large Language Models and the Ai Apocalypse, Paperback by Kockel...",
+        "Price": "$18.72",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: A Step-by-Step Do It Yourself Guide by Vemula, Anand, ...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding Large Language Models: Learning Their Underlying Concepts and Tech",
+        "Price": "$46.92",
+        "Shipping Fee": "+$6.82 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootend Hands-On Large Language Mo (Paperback) (UK IMPORT)",
+        "Price": "$94.21",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Uday Kamath Garrett Somers Sarah Sorenson Ke Large Language Models: A (Hardback)",
+        "Price": "$149.45",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$64.95",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Last Words : Large Language Models and the Ai Apocalypse, Paperback by Kockel...",
+        "Price": "$21.48",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$205.86",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": " 3D Puzzles Large HMS Victory Vessel Ship Sailboat Model HMS Victory with lights",
+        "Price": "$25.95",
+        "Shipping Fee": "+$26.13 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shreyas Subramanian Large Language Model-Based Solutions (Tapa blanda)",
+        "Price": "$55.60",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Chat GPT Logo AI Conversational Chatbot Language Model Unisex T-Shirt",
+        "Price": "$20.99",
+        "Shipping Fee": "+$10.00 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building LLM Apps: Create Intelligent Apps and Agents with Large Language Models",
+        "Price": "$111.95",
+        "Shipping Fee": "+$29.73 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models: Advanced techniques, applications, cutting-edge",
+        "Price": "$62.56",
+        "Shipping Fee": "+$13.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quantization Methods for Large Language Models From Theory to Real-World Impleme",
+        "Price": "$29.32",
+        "Shipping Fee": "+$3.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with P (Digital download) (US IMPORT)",
+        "Price": "$68.98",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Bachmann's Large Scale Assembly & Lubrication Instructions model railroad VHS",
+        "Price": "$4.99",
+        "Shipping Fee": "+$22.98 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Paul Kockelman Last Words: Large Language Models (Tapa blanda) (Importación USA)",
+        "Price": "$16.28",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Python,",
+        "Price": "$71.04",
+        "Shipping Fee": "+$12.70 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$77.90",
+        "Shipping Fee": "+$2.17 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback) (UK IMPORT)",
+        "Price": "$74.20",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback)",
+        "Price": "$66.21",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding Large Language Models: Learning Their Underlying Concepts and Tech",
+        "Price": "$42.64",
+        "Shipping Fee": "+$14.37 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI Strat",
+        "Price": "$39.22",
+        "Shipping Fee": "+$22.19 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$35.92",
+        "Shipping Fee": "+$20.28 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Vemula, Anand, Like New Us...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Generative AI Application Integration Patterns: Integrate large language models ",
+        "Price": "$58.94",
+        "Shipping Fee": "+$27.66 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Ch",
+        "Price": "$54.05",
+        "Shipping Fee": "+$48.17 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Python,",
+        "Price": "$71.90",
+        "Shipping Fee": "+$27.66 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Secur (Paperback)",
+        "Price": "$81.60",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "How to Build Large Language Models (LLMs): From Data Preparation to Deployment a",
+        "Price": "$20.85",
+        "Shipping Fee": "+$4.29 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$40.63",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": ".hack analysis Project Artbook Reference Guide 3D Models Making Of US SELLER",
+        "Price": "$29.99",
+        "Shipping Fee": "+$27.24 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta, B...",
+        "Price": "$371.53",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: Concepts, Techniques and Applications by John Atkinson-Ab",
+        "Price": "$69.73",
+        "Shipping Fee": "+$39.11 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$53.35",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": " Artificial Intelligence and Large Language Models by Al-Sakib Khan Pathan 97810",
+        "Price": "$69.04",
+        "Shipping Fee": "+$53.97 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "AI Foundations of Large Language Models by Jon Adams",
+        "Price": "$30.95",
+        "Shipping Fee": "+$27.10 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "A Beginner's Guide to Large Language Models: Conversational AI for Non-Techni...",
+        "Price": "$38.42",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Anand Vemula Paperb",
+        "Price": "$29.32",
+        "Shipping Fee": "+$2.91 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta Hardc",
+        "Price": "$599.01",
+        "Shipping Fee": "+$23.58 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Anand Vemula ",
+        "Price": "$18.89",
+        "Shipping Fee": "+$2.74 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Yan - Law Prompts  Large Language Models for Lawyers - New paperback o - N555z",
+        "Price": "$16.36",
+        "Shipping Fee": "+$42.54 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models fo (Tapa dura) (Importación USA)",
+        "Price": "$53.86",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models : Concepts, Techniques and Applications, Paperback by A...",
+        "Price": "$63.42",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models with Python (Digital download)",
+        "Price": "$64.95",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta, B...",
+        "Price": "$444.45",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business",
+        "Price": "$29.11",
+        "Shipping Fee": "+$49.34 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Design Patterns for Large Language Models: From Development to Deployment by Ana",
+        "Price": "$23.31",
+        "Shipping Fee": "+$3.89 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Last Words: Large Language Models and the AI Apocalypse by Paul Kockelman Paperb",
+        "Price": "$21.50",
+        "Shipping Fee": "+$4.72 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Python,",
+        "Price": "$98.99",
+        "Shipping Fee": "+$28.39 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$220.60",
+        "Shipping Fee": "+$30.55 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$58.00",
+        "Shipping Fee": "+$13.88 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Design Patterns for Large Language Models: From Development to Deployment by Ana",
+        "Price": "$20.85",
+        "Shipping Fee": "+$4.64 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business",
+        "Price": "$29.11",
+        "Shipping Fee": "+$49.34 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security: Building Secure AI A",
+        "Price": "$70.64",
+        "Shipping Fee": "+$54.46 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Models Unveiled: Development and Deployment Strategies by Kuma...",
+        "Price": "$88.18",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$54.66",
+        "Shipping Fee": "+$28.73 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs) by",
+        "Price": "$14.85",
+        "Shipping Fee": "+$12.70 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective ",
+        "Price": "$44.43",
+        "Shipping Fee": "+$23.54 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity : Threats, Exposure and Mitigation, Ha...",
+        "Price": "$89.25",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Integrating OpenCV and Large Language Models: A Comprehensive Guide to Unified A",
+        "Price": "$19.54",
+        "Shipping Fee": "+$3.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models With Azure Open Ai : Conversational Program...",
+        "Price": "$37.51",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Last Words: Large Language Models and the AI Apocalypse by Paul Kockelman Paperb",
+        "Price": "$24.31",
+        "Shipping Fee": "+$3.91 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Transfo",
+        "Price": "$46.27",
+        "Shipping Fee": "+$10.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: A Deep Dive: Bridging Theory and Practice by Uday Kamath ",
+        "Price": "$123.18",
+        "Shipping Fee": "+$13.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models: Learning Their Underlying Concepts and Tech",
+        "Price": "$44.99",
+        "Shipping Fee": "+$41.57 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity: Threats, Exposure and Mitigation by Andr",
+        "Price": "$59.95",
+        "Shipping Fee": "+$88.05 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta Paper",
+        "Price": "$465.39",
+        "Shipping Fee": "+$13.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Tamiya 1/48 F-14A Tomcat Modeling Laboratory Large Book Japan Model Kit Guide",
+        "Price": "$56.34",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Large Language Models Projects : Apply and Implement Strategies for Large Lan...",
+        "Price": "$76.24",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$42.36",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootend Hands-On Large Language Mo (Paperback) (UK IMPORT)",
+        "Price": "$89.29",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Textbook of Crafting Army Tank Models Genealogy of Japanese Tanks book Japan",
+        "Price": "$39.78",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna, Pa",
+        "Price": "$21.46",
+        "Shipping Fee": "+$3.39 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Anand Vemula P",
+        "Price": "$37.12",
+        "Shipping Fee": "+$3.55 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Designing Large Language Model Systems: System Design, Architecture, Deployme...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Vemula, Ana...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "How to Build Large Language Models (LLMs): From Data Preparation to Deployment a",
+        "Price": "$23.01",
+        "Shipping Fee": "+$3.81 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python: Unleash the Power of Advanced Natu,",
+        "Price": "$101.99",
+        "Shipping Fee": "+$32.41 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Tomcat Art Book Large Book Plastic Models Super Detailing 1/48 F-14 Tomcat",
+        "Price": "$73.00",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Vemula, Anand, Like New U...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Developer's Playbook for Large Language Model Security : Building Secure Ai A...",
+        "Price": "$57.76",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "A Beginner's Guide to Large Language Models: Conversational AI for Non-Techni...",
+        "Price": "$38.43",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$55.65",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Gundam Archives I Love RGM Book Japan Model Graphix Mobile Suit Art Guide 2019",
+        "Price": "$67.98",
+        "Shipping Fee": "+$3.00 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and...",
+        "Price": "$14.87",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Beginning Prompt Engineering: Learning to communicate with Large Language Models",
+        "Price": "$16.60",
+        "Shipping Fee": "+$11.69 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Anand Vemula ",
+        "Price": "$21.76",
+        "Shipping Fee": "+$3.47 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by Ana",
+        "Price": "$21.54",
+        "Shipping Fee": "+$3.41 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootend Hands-On Large Language Mo (Paperback) (US IMPORT)",
+        "Price": "$85.21",
+        "Shipping Fee": "+$2.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Grokking LLM: From Fundamentals to Advanced Techniques in Large Language Models ",
+        "Price": "$33.23",
+        "Shipping Fee": "+$3.30 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "BB KONGO CLASS & CV UNRYU CLASS by Hans Lengerer  Trojca & Model Hobby Publisher",
+        "Price": "$54.00",
+        "Shipping Fee": "+$30.86 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Star Wars Sculpting a Galaxy Miniature Model Complete Guide Large Book Japanese ",
+        "Price": "$95.00",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python by Arun R., Raj, Brand New, Free ...",
+        "Price": "$61.77",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open AI by Francesco Esposito",
+        "Price": "$61.95",
+        "Shipping Fee": "+$28.10 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$185.90",
+        "Shipping Fee": "+$26.17 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Bulgarian Academy of - Large-Scale Scientific Computing   8th Interna - S9000z",
+        "Price": "$70.18",
+        "Shipping Fee": "+$27.57 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Anand Vemula P",
+        "Price": "$33.23",
+        "Shipping Fee": "+$3.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Tapa dura)",
+        "Price": "$59.63",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models, Like New Used, Free P&P in the UK",
+        "Price": "$53.80",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by ...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$79.83",
+        "Shipping Fee": "+$54.46 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Yan, Emma, Like New Used, F...",
+        "Price": "$15.04",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Vemula,...",
+        "Price": "$22.79",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootend Hands-On Large Language Mo (Paperback) (US IMPORT)",
+        "Price": "$79.22",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$42.37",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Taschenbuch)",
+        "Price": "$69.67",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Integrating OpenCV and Large Language Models: A Comprehensive Guide to Unified A",
+        "Price": "$22.31",
+        "Shipping Fee": "+$3.61 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Integrating OpenCV and Large Language Models: A Comprehensive Guide to Unified A",
+        "Price": "$22.31",
+        "Shipping Fee": "+$3.61 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques for b",
+        "Price": "$70.76",
+        "Shipping Fee": "+$24.77 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Traditional Japanese Carpentry Joint Frame Connection Architecture (Language:JP)",
+        "Price": "$67.66",
+        "Shipping Fee": "+$10.00 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$207.92",
+        "Shipping Fee": "+$14.50 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Paperback) (US IMPORT)",
+        "Price": "$65.95",
+        "Shipping Fee": "+$3.90 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models, Sinan",
+        "Price": "$42.13",
+        "Shipping Fee": "+$49.80 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques for b",
+        "Price": "$41.75",
+        "Shipping Fee": "+$23.46 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "John Atkinson-Abutridy Large Language Models (Tapa blanda) (Importación USA)",
+        "Price": "$90.18",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leade (Tapa blanda)",
+        "Price": "$35.27",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Vemula, Anand, Like New ...",
+        "Price": "$33.20",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Kiko Mizuhara Photo Book girl Photo by Mika Ninagawa Japanese Fashion model",
+        "Price": "$21.62",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical...",
+        "Price": "$24.73",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Raj Arun R Mastering Large Language Models  (Digital download) (Importación USA)",
+        "Price": "$73.56",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Gundam Archives I Love RGM Model Graphix Mobile Suit Art Guide Book Japan 2019 J",
+        "Price": "$51.39",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$74.30",
+        "Shipping Fee": "+$39.11 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Developer's Playbook for Large Language Model Security: Building Secure AI A",
+        "Price": "$63.87",
+        "Shipping Fee": "+$39.11 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Beginning Prompt Engineering: Learning to communicate with Large Language Models",
+        "Price": "$20.85",
+        "Shipping Fee": "+$5.54 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models for Business Leaders (Tapa dura)",
+        "Price": "$45.58",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$76.37",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models: An Introduction to the Techno",
+        "Price": "$76.02",
+        "Shipping Fee": "+$39.76 shipping",
+        "Location": "from Canada"
+    },
+    {
+        "Name": "I Almeida Introduction to Large Language Models  (Tapa blanda) (Importación USA)",
+        "Price": "$40.02",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Almeida - Introduction to Large Language Models for Business Leaders   - S555z",
+        "Price": "$42.43",
+        "Shipping Fee": "+$43.44 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna,...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding Large Language Models : Learning Their Underlying Concepts and ...",
+        "Price": "$61.13",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Vemula, Ana...",
+        "Price": "$31.90",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling",
+        "Price": "$42.83",
+        "Shipping Fee": "+$23.49 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Python,",
+        "Price": "$53.86",
+        "Shipping Fee": "+$19.94 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Amaratunga - Understanding Large Language Models   Learning Their Unde - N555z",
+        "Price": "$73.45",
+        "Shipping Fee": "+$44.51 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Model-based Solutions : How to Deliver Value With Cost-effecti...",
+        "Price": "$44.07",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Transforming Conversational AI: Exploring the Power of Large Language Models in ",
+        "Price": "$54.74",
+        "Shipping Fee": "+$13.19 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models With Azure Open Ai : Conversational Program...",
+        "Price": "$37.52",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Vemula, Anand, B...",
+        "Price": "$31.91",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Tapa blanda) (Importación USA)",
+        "Price": "$43.28",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "K.S Ma'aita - Large language Models in Medicine - New paperback or sof - N555z",
+        "Price": "$69.12",
+        "Shipping Fee": "+$50.73 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Pere Martra Pere  Martra Large Language Models Projects (Tapa blanda)",
+        "Price": "$99.13",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Subhash Khandar - Mastering Large Language Models  Advanced techniques - N555z",
+        "Price": "$61.78",
+        "Shipping Fee": "+$47.27 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Vemula, ...",
+        "Price": "$31.90",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity: Threats, Exposure and Mitigation: New",
+        "Price": "$69.29",
+        "Shipping Fee": "+$24.35 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open AI: Conversational programming",
+        "Price": "$82.09",
+        "Shipping Fee": "+$91.95 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Ulrika Jägare Data Science Strategy For Dummies (Paperback) (UK IMPORT)",
+        "Price": "$38.77",
+        "Shipping Fee": "+$3.99 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Automatic Speech and Speaker Recognition: Large Margin and Kernel Methods by Jos",
+        "Price": "$138.21",
+        "Shipping Fee": "+$23.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models : Strategies and Best Practices fo...",
+        "Price": "$42.06",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "GPT-3: Building Innovative NLP Products Using Large Language Models by Kublik",
+        "Price": "$11.99",
+        "Shipping Fee": "+$32.67 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quantization Methods for Large Language Models From Theory to Real-World Impl...",
+        "Price": "$29.31",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Pyth...",
+        "Price": "$89.51",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Thimira Amaratunga Understanding Large Language Models (Tapa blanda)",
+        "Price": "$43.96",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$40.65",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling,",
+        "Price": "$11.99",
+        "Shipping Fee": "+$32.67 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Transforming Conversational AI: Exploring the Power of Large Language Models in ",
+        "Price": "$71.16",
+        "Shipping Fee": "+$55.30 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "James Chen Demystifying Large Language Models (Tapa blanda)",
+        "Price": "$43.76",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques fo...",
+        "Price": "$82.63",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Sanket Subhash Khandare Mastering Large Language Models (Tapa blanda)",
+        "Price": "$61.04",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Generative AI Application Integration Patterns: Integrate large language models",
+        "Price": "$53.86",
+        "Shipping Fee": "+$23.85 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)...",
+        "Price": "$11.58",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$53.36",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "SUPER DETAILING THE F-14 TOMCAT Japanese Book 2023 Dainippon Kaiga New",
+        "Price": "$74.98",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Emily Webber Pretrain Vision and Large Language Models in Python (Tapa blanda)",
+        "Price": "$67.59",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models Essentials: Techniques, Tools, and Applications by Vemu...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models : Concepts, Techniques and Applications, Paperback by A...",
+        "Price": "$73.94",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Us",
+        "Price": "$53.89",
+        "Shipping Fee": "+$20.28 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Traditional Japanese Carpentry Joint Frame Connection Architecture Truss Brace",
+        "Price": "$68.88",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Mastering Transformers: The Journey from BERT to Large Language Models and Stab,",
+        "Price": "$80.99",
+        "Shipping Fee": "+$31.72 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Us",
+        "Price": "$52.13",
+        "Shipping Fee": "+$39.11 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Model-based Solutions : How to Deliver Value With Cost-effecti...",
+        "Price": "$44.14",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python by Arun R., Raj, Like New Used, F...",
+        "Price": "$61.75",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by ...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical...",
+        "Price": "$24.74",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Vemula, Anand, Brand New...",
+        "Price": "$33.22",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models, Brand New, Free P&P in the UK",
+        "Price": "$53.81",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Vemula, Anand, L...",
+        "Price": "$31.90",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quantization Methods for Large Language Models From Theory to Real-World Impl...",
+        "Price": "$27.99",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Vemula, ...",
+        "Price": "$31.91",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Vemula,...",
+        "Price": "$22.77",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Generative AI Application Integration Patterns: Integrate large language models ",
+        "Price": "$71.04",
+        "Shipping Fee": "+$12.70 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models : Strategies and Best Practices fo...",
+        "Price": "$53.74",
+        "Shipping Fee": "+$23.85 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models : Concepts, Techniques and Applications, Paperback by A...",
+        "Price": "$73.95",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Weathering Textbook (Scale Model Fan Vol.14) (Japanese) Large Book from Jp 2045",
+        "Price": "$29.95",
+        "Shipping Fee": "+$18.50 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Auffarth - Generative AI with LangChain  Build large language model L - S555z",
+        "Price": "$70.53",
+        "Shipping Fee": "+$47.58 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Integrating OpenCV and Large Language Models: A Comprehensive Guide to Unifie...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Hobby Japan July 2018 Japanese Gundam Gunpla Anime Tank Aircraft Plamo Magazine",
+        "Price": "$20.00",
+        "Shipping Fee": "+$18.84 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Vemula, An...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Vemula, Ana...",
+        "Price": "$31.91",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "🍉 Hobby Japan November 2018 Japanese Gundam Gunpla Tank Aircraft Plamo Magazine",
+        "Price": "$20.00",
+        "Shipping Fee": "+$18.84 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python by Emily Webber",
+        "Price": "$89.95",
+        "Shipping Fee": "+$29.01 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Steve Wilson The Developer's Playbook for Large Language Model Sec (Tapa blanda)",
+        "Price": "$75.95",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Transforming Conversational Ai : Exploring the Power of Large Language Models...",
+        "Price": "$57.37",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices for U,",
+        "Price": "$84.99",
+        "Shipping Fee": "+$31.85 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Vemula, Anand, L...",
+        "Price": "$29.29",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "New Listing",
+        "Price": "$74.13",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models in Trading: Comprehensive Guide to Applications, Case S...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Transformers: The Journey from BERT to Large Language Models and Stabl",
+        "Price": "$52.08",
+        "Shipping Fee": "+$35.30 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Sinan Ozdemir Quick Start Guide to Large Language Models (Tapa blanda)",
+        "Price": "$69.67",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "This Looks Like a Job for The Teacher role model professor Unisex T Shirt",
+        "Price": "$19.99",
+        "Shipping Fee": "+$18.84 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Tatsuya Kaneko Diorama Style Book 35 Military Models On Base Japanese Book Japan",
+        "Price": "$58.18",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Ulrika Jagare - Data Science Strategy For Dummies - New Paperback - S9000z",
+        "Price": "$44.43",
+        "Shipping Fee": "+$23.54 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Gundam Archives \"Gundam Sentinel\" Edition Large Book 104 pages Japanese #1",
+        "Price": "$89.83",
+        "Shipping Fee": "+$12.00 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Modelers Room Style Book: Environment surgery for the full model life Japan ",
+        "Price": "$66.00",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques for b",
+        "Price": "$62.66",
+        "Shipping Fee": "+$20.28 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models - LLMs by Arora, Jagdish Krishanlal, Like New Used, Fre...",
+        "Price": "$21.47",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques for,",
+        "Price": "$64.99",
+        "Shipping Fee": "+$31.20 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "I Love LLMs Large Lady Models  Back Print",
+        "Price": "$22.95",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Jay Alammar Maarten Grootendorst Hands-On Large Language Models (Tapa blanda)",
+        "Price": "$84.35",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Ma.K. in SF3D MAX Watanabe no Ma.K. Daisuki: Japanese Model Kit Book #1",
+        "Price": "$88.30",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Hokusai Picture Book Collection Volume 1 Japanese Illustration Book Japan New",
+        "Price": "$85.99",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Uday Kamath Garrett Somers Sarah Sorenson K Large Language Models:  (Tapa dura)",
+        "Price": "$141.03",
+        "Shipping Fee": "+$3.25 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Mastering Transformers: The Journey from BERT to Large Language Models and Stabl",
+        "Price": "$44.60",
+        "Shipping Fee": "+$55.30 shipping",
+        "Location": "from Australia"
+    },
+    {
+        "Name": "Programming Large Language Models with Azure Open AI: Conversational programming",
+        "Price": "$80.16",
+        "Shipping Fee": "+$88.05 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Ministering Cross-Culturally: A Model for Effective Personal Relationships by L",
+        "Price": "$15.59",
+        "Shipping Fee": "+$18.69 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Transformers: The Journey from BERT to Large Language Models and: New",
+        "Price": "$43.98",
+        "Shipping Fee": "+$23.53 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Ministering Cross-Culturally: A Model for Effective Personal Relationships by L",
+        "Price": "$12.28",
+        "Shipping Fee": "+$18.59 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Transformers: The Journey from BERT to Large Language Models and Stabl",
+        "Price": "$60.61",
+        "Shipping Fee": "+$12.70 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "This Looks Like a Job for The Teacher role model Baseball Long Sleeve T Shirt",
+        "Price": "$22.99",
+        "Shipping Fee": "+$18.93 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "This Looks Like a Job for The Teacher role model professor Men's V Neck Shirt",
+        "Price": "$20.99",
+        "Shipping Fee": "+$18.87 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling",
+        "Price": "$10.24",
+        "Shipping Fee": "+$25.62 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Vemula, Anand, Like New Us...",
+        "Price": "$15.93",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models : Learning Their Underlying Concepts and ...",
+        "Price": "$41.15",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta",
+        "Price": "$491.48",
+        "Shipping Fee": "+$78.70 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics (Advances in",
+        "Price": "$371.54",
+        "Shipping Fee": "+$74.56 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta, B...",
+        "Price": "$423.14",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "(2) Apple iPad Model A1219 & A1219,  16GB and 32GB - Will not power on",
+        "Price": "$19.99",
+        "Shipping Fee": "+$233.83 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity : Threats, Exposure and Mitigation, Ha...",
+        "Price": "$69.27",
+        "Shipping Fee": "+$24.35 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models Unveiled: Development and Deployment Strategies by Kuma...",
+        "Price": "$68.21",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and...",
+        "Price": "$14.67",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models Unveiled: Development and Deployment Strategies by Kuma...",
+        "Price": "$68.61",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Vemula, Anand, Brand New,...",
+        "Price": "$19.04",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques fo...",
+        "Price": "$62.65",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Challenges in Large Language Model Development and AI Ethics by Brij Gupta, B...",
+        "Price": "$423.15",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$35.90",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$42.54",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Vemula, ...",
+        "Price": "$31.85",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$47.26",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Hands-on Large Language Models : Language Understanding and Generation, Paper...",
+        "Price": "$66.33",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Developer's Playbook for Large Language Model Security : Building Secure Ai A...",
+        "Price": "$61.09",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: a Deep Dive : Bridging Theory and Practice, Hardcover ...",
+        "Price": "$92.58",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Casio G-Shock Special Color Models all-black classic matte Watch DW5900BB-1D",
+        "Price": "$84.49",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Singapore"
+    },
+    {
+        "Name": "How to Build Large Language Models (LLMs): From Data Preparation to Deploymen...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$181.87",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$35.67",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python by Arun R., Raj, Like New Used, F...",
+        "Price": "$66.43",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical...",
+        "Price": "$25.42",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models, Like New Used, Free shipping in the US",
+        "Price": "$60.19",
+        "Shipping Fee": "+$24.06 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Yan, Emma, Like New Used, F...",
+        "Price": "$15.66",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language",
+        "Price": "$49.08",
+        "Shipping Fee": "+$53.28 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Vemula, Anand, B...",
+        "Price": "$29.87",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models, Paperback by Ozdemir, Sinan, Like...",
+        "Price": "$46.67",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI",
+        "Price": "$42.33",
+        "Shipping Fee": "+$53.05 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language",
+        "Price": "$37.45",
+        "Shipping Fee": "+$52.88 shipping estimate",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)...",
+        "Price": "$11.17",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Pyth...",
+        "Price": "$69.53",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models With Azure Open Ai : Conversational Program...",
+        "Price": "$37.39",
+        "Shipping Fee": "+$23.32 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$82.58",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Programming Large Language Models With Azure Open Ai : Conversational Program...",
+        "Price": "$37.38",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Vemula,...",
+        "Price": "$17.42",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models with PyTorch: A Hands-On Guide with Practical...",
+        "Price": "$22.21",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Vemula, An...",
+        "Price": "$16.15",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models, Sinan Ozdemir",
+        "Price": "$43.32",
+        "Shipping Fee": "+$54.29 shipping",
+        "Location": "from Germany"
+    },
+    {
+        "Name": "Integrating OpenCV and Large Language Models: A Comprehensive Guide to Unifie...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Model Graphix Gundam Archives I Love RGM Art Guide Book Japan ",
+        "Price": "$69.80",
+        "Shipping Fee": "+$23.80 shipping",
+        "Location": "from Japan"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$42.30",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Introduction to Large Language Models for Business Leaders: Responsible AI St...",
+        "Price": "$35.68",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Vemula, An...",
+        "Price": "$18.86",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Vemula, Anand, B...",
+        "Price": "$29.31",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models by Sinan Ozdemir",
+        "Price": "$82.95",
+        "Shipping Fee": "+$24.87 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model by Ben Auffarth",
+        "Price": "$90.95",
+        "Shipping Fee": "+$29.05 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Ministering Cross-Culturally: A Model for Effective Personal Relationships by L",
+        "Price": "$15.59",
+        "Shipping Fee": "+$18.69 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by ...",
+        "Price": "$19.04",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Building Large Language Model(LLM) Applications by Vemula, Anand, Brand New, ...",
+        "Price": "$20.32",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$47.25",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$185.89",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Vemula, Anand, Like New ...",
+        "Price": "$32.04",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Developer's Playbook for Large Language Model Security : Building Secure Ai A...",
+        "Price": "$60.74",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Large Language Models with Python by Arun R., Raj, Brand New, Free ...",
+        "Price": "$66.44",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models, Brand New, Free shipping in the US",
+        "Price": "$60.20",
+        "Shipping Fee": "+$24.06 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models: A Guide to Transformer Architectures and...",
+        "Price": "$14.66",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models, Paperback by Ozdemir, Sinan, Bran...",
+        "Price": "$46.68",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Demystifying Large Language Models: Unraveling the Mysteries of Language Tran...",
+        "Price": "$35.91",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Hands-on Large Language Models : Language Understanding and Generation, Paper...",
+        "Price": "$66.34",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Understanding Large Language Models : Learning Their Underlying Concepts and ...",
+        "Price": "$41.16",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models in Cybersecurity : Threats, Exposure and Mitigation, Ha...",
+        "Price": "$69.28",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Artificial Intelligence and Large Language Models : An Introduction to the Te...",
+        "Price": "$82.59",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Shop on eBay",
+        "Price": "$20.00",
+        "Shipping Fee": "Not specified",
+        "Location": "Not specified"
+    },
+    {
+        "Name": "Law Prompts: Large Language Models for Lawyers by Yan, Emma, Brand New, Free ...",
+        "Price": "$15.67",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Vemula, Ana...",
+        "Price": "$19.18",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Large Language Models - LLMs by Arora, Jagdish Krishanlal, Brand New, Free sh...",
+        "Price": "$21.38",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Casio G-Shock White Theme Special Color Model Watch DW5600MW-7D",
+        "Price": "$103.49",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Singapore"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Vemula, Ana...",
+        "Price": "$29.17",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Basics: A Step-by-Step Guide to Large Language Models by Vemula, Anand, L...",
+        "Price": "$26.79",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Generative AI with LangChain: Build large language model (LLM) apps with Pyth...",
+        "Price": "$69.54",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models: Strategies and Best Practices f ...",
+        "Price": "$52.12",
+        "Shipping Fee": "+$54.29 shipping",
+        "Location": "from Germany"
+    },
+    {
+        "Name": "Generative AI with Large Language Models: A Comprehensive Guide by Vemula, An...",
+        "Price": "$16.14",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Transforming Conversational Ai : Exploring the Power of Large Language Models...",
+        "Price": "$42.09",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models : Strategies and Best Practices fo...",
+        "Price": "$53.75",
+        "Shipping Fee": "+$23.85 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)...",
+        "Price": "$11.18",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Pretrain Vision and Large Language Models in Python: End-to-end techniques fo...",
+        "Price": "$62.64",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How to Build Large Language Models (LLMs): From Data Preparation to Deploymen...",
+        "Price": "$20.83",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Large Language Models: Unleashing the Power of AI for Everyone by Vemula, Ana...",
+        "Price": "$18.88",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Design Patterns for Large Language Models: From Development to Deployment by ...",
+        "Price": "$20.17",
+        "Shipping Fee": "+$26.06 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Design Patterns for Large Language Models: From Development to Deployment by ...",
+        "Price": "$20.18",
+        "Shipping Fee": "+$20.85 shipping",
+        "Location": "from United Kingdom"
+    },
+    {
+        "Name": "Automatic Speech and Speaker Recognition : Large Margin and Kernel Methods, H...",
+        "Price": "$117.81",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Spark With R : The Complete Guide to Large-Scale Analysis and Model...",
+        "Price": "$43.03",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Praxiseinstieg Large Language Models Sinan Ozdemir",
+        "Price": "$43.32",
+        "Shipping Fee": "Shipping not specified",
+        "Location": "from Germany"
+    },
+    {
+        "Name": "Demystifying Large Language Models with Examples by Vemula, Anand, Like New U...",
+        "Price": "$19.18",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna,...",
+        "Price": "$19.03",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text...",
+        "Price": "$19.06",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "The Ultimate Guide to Open Source Large Language Models - Practical Guide by ...",
+        "Price": "$19.03",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "How Do Large Language Models Work? A Beginner's Guide to AI Chatbots and Text...",
+        "Price": "$19.18",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "A Deep Dive into Large Language Models: Exploring the Power of Bloom, Vicuna,...",
+        "Price": "$19.04",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "LLM Medical: Revolutionizing Healthcare with Large Language Models by Vemula,...",
+        "Price": "$19.16",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to Large Language Models (LLMs) by Vemula, Anand, Brand New...",
+        "Price": "$32.06",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Casio G-Shock Special Color Models Sporty Mix Design Watch GA500WG-7A",
+        "Price": "$147.99",
+        "Shipping Fee": "Free International Shipping",
+        "Location": "from Singapore"
+    },
+    {
+        "Name": "Understanding LLM: A Comprehensive Guide to Large Language Models by Vemula, ...",
+        "Price": "$32.00",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Vemula, Anand, L...",
+        "Price": "$32.00",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Using LLM: A Comprehensive Guide to Large Language Models by Vemula, Anand, B...",
+        "Price": "$31.82",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Quick Start Guide to LLMs: Hands-On with Large Language Models by Vemula, Ana...",
+        "Price": "$32.40",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Transforming Conversational Ai : Exploring the Power of Large Language Models...",
+        "Price": "$42.10",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Automatic Speech and Speaker Recognition : Large Margin and Kernel Methods, H...",
+        "Price": "$138.20",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Mastering Spark With R : The Complete Guide to Large-Scale Analysis and Model...",
+        "Price": "$43.03",
+        "Shipping Fee": "+$24.99 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "Rare Vintage Old Antique Print “Cain & Abel” Etching, William Wynne Ryland 1763",
+        "Price": "$1,150.00",
+        "Shipping Fee": "+$89.48 shipping",
+        "Location": "from United States"
+    },
+    {
+        "Name": "(2) Apple iPad Model A1219 &  A1396, 16GB",
+        "Price": "$29.99",
+        "Shipping Fee": "+$100.03 shipping",
+        "Location": "from United States"
+    }
+]
